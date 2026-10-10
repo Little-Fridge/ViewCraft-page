@@ -1,3 +1,5 @@
+<p align="center"><a href="https://little-fridge.github.io/ViewCraft-page/"><img src="assets/brand/viewcraft-banner.png" alt="ViewCraft" width="100%"></a></p>
+
 # ViewCraft · Project Page
 
 **[Visit the project page](https://little-fridge.github.io/ViewCraft-page/)** · [Paper PDF](assets/ViewCraft.pdf) · [Code repository](https://github.com/Little-Fridge/ViewCraft)
